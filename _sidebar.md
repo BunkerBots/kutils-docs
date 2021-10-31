@@ -5,3 +5,4 @@
     - [Account](Account.md "Account Commands | KUtils Docs")
     - [Admin](Admin.md "Admin Commands | KUtils Docs")
     - [Krunker](Krunker.md "Krunker Commands | KUtils Docs")
+    - [Misc](Misc.md "Miscellaneous Commands | Kutils Docs")
