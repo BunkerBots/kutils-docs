@@ -1,4 +1,4 @@
-# Krunker
+# Krunker Commands
 Get stats for players, clans, skins, mods, and much more!
 
 ## k.clan

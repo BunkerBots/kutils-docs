@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://i.imgur.com/HZukGEN.png)
+![logo](_media/logo.png)
 
 # Krunker Utilities 
 > A bot for getting Krunker.io stats and more.

@@ -1,4 +1,6 @@
 - About Us
-    - [Home](README.md)
+    - [Home](README.md "Home | KUtils Docs")
+    - [Features](Features.md "Features | KUtils Docs")
 - Commands
-    - [Krunker](Krunker.md "Krunker Commands")
+    - [Account](Account.md "Account Commands | KUtils Docs")
+    - [Krunker](Krunker.md "Krunker Commands | KUtils Docs")
