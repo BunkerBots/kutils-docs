@@ -19,3 +19,7 @@ maple,
 MG07,
 Raman Design,
 Tae
+
+<br/>
+<img src="_media/bb.png" height="30px" style="transform: translateY(33%)">  Copyright 2021 | BunkerBots 
+
