@@ -2,8 +2,9 @@
 
 ![logo](_media/logo.png)
 
-# Krunker Utilities 
-> A bot for getting Krunker.io stats and more.
+# **KU** | Krunker Utilities 
+> A simple bot made for displaying Krunker stats & info in a clean manner!
+
 
 - 1400+ Servers and Counting
 - Extensive Customization

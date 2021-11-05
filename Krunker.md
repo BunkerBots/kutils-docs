@@ -1,21 +1,6 @@
 # Krunker Commands
 Get stats for players, clans, skins, mods, and much more!
 
-## k.clan
-Get stats for a clan.
-
-#### Usage
-```
-k.clan <name>
-```
-
-- `<name>` - Name of a clan *(Required)*
-
-Fetches information for given clan name.
-
-#### Aliases
-`clan`
-
 ## k.contract
 Get clan war contract stats for a player.
 
