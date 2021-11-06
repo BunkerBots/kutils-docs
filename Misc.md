@@ -1,6 +1,8 @@
 # Miscellaneous Commands
 Bot related commands which don't really fit into any category.
 
+***
+
 ## k.help
 View help for the bot in Discord.
 
@@ -9,6 +11,8 @@ View help for the bot in Discord.
 k.help
 ```
 Displays a list of all commands and the server prefix.
+
+***
 
 ```
 k.help <command>
@@ -20,8 +24,10 @@ Displays detailed documentation for the given command.
 #### Aliases
 `help` `h`
 
+***
+
 ## k.info
-View bot statistics and invite link.
+View the bot's statistics and it's invite link.
 
 #### Usage
 ```
@@ -31,8 +37,10 @@ k.info
 #### Aliases
 `info` `i` `support` `invite`
 
+***
+
 ## k.ping
-Check bot response time, ping, and uptime.
+Check the bot's response time, ping, and uptime.
 
 #### Usage
 ```

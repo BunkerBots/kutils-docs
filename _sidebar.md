@@ -1,6 +1,6 @@
 - **About Us**
-    - [Home](newReadme.md "Home | KU Docs")
-    - [Features](newFeatures.md "Features | KU Docs")
+    - [Home](README.md "Home | KU Docs")
+    - [Features](Features.md "Features | KU Docs")
 - **Introduction**
 	- [Getting Started with KU](gettingstarted.md "Getting Started | KU Docs")
 	- [A brief look at Linking](linking_guide.md "Brief look at Linking | KU Docs")
@@ -8,20 +8,14 @@
 - **FAQ**
 	- [Why are approvals required?](_faq/approvals.md "FAQ | KU Docs")
 - **Commands**
-	- [Admin](newAdmin.md "Admin Commands | KU Docs")
-	- [Account & Linking](newAccount.md "Account Commands | KU Docs")
-	- [Customisation](newCustomisation.md "Customisation Commands | KU Docs")
-	- [Miscellaneous](newMisc.md "Miscellaneous Commands | KU Docs")
+	- [Admin](Admin.md "Admin Commands | KU Docs")
+	- [Account & Linking](Account.md "Account Commands | KU Docs")
+	- [Customisation](Customisation.md "Customisation Commands | KU Docs")
+	- [Miscellaneous](Misc.md "Miscellaneous Commands | KU Docs")
 - **Krunker Commands**
-	- [Profile](newProfile.md "Profile Commands | KU Docs")
-	- [Clan](newClan.md "Clan Commands | KU Docs")
-	- [Market](newMarket.md "Market Commands | KU Docs")
-	- [Skins](newSkins.md "Skin Commands | KU Docs")
-	- [Maps](newMaps.md "Map Commands | KU Docs")
-	- [Mods](newMods.md "Mod Commands | KU Docs")
-- **Commands (Old)**
-    - [Account](Account.md "Account Commands | KUtils Docs")
-    - [Admin](Admin.md "Admin Commands | KUtils Docs")
-    - [Krunker](Krunker.md "Krunker Commands | KUtils Docs")
-    - [Misc](Misc.md "Miscellaneous Commands | Kutils Docs")
-
+	- [Profile](Profile.md "Profile Commands | KU Docs")
+	- [Clan](Clan.md "Clan Commands | KU Docs")
+	- [Market](Market.md "Market Commands | KU Docs")
+	- [Skins](Skins.md "Skin Commands | KU Docs")
+	- [Maps](Maps.md "Map Commands | KU Docs")
+	- [Mods](Mods.md "Mod Commands | KU Docs")
