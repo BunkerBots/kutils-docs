@@ -224,7 +224,7 @@ To do this, we will be using `k.setbio`
 
 With this, we conclude the guide to Customisation in KU. We know it's a long read, but this is actually simple in practice. Of course, we will try to make things simpler in the future, so count on us!
 
-Not that it's necessary, but we recommend you to read *this guide*  to optimize the customisation workflow for yourself!
+Not that it's necessary, but we recommend you to read on just a bit more to optimize the customisation workflow for yourself!
 
 Now that you are done with all the guides, feel free to use the bot, and have fun~
 
@@ -234,10 +234,10 @@ Now that you are done with all the guides, feel free to use the bot, and have fu
 
 You have probably noticed this by now, but in case you haven't, **the preview window can render the profile regardless of the background and/or bio being approved or not.** 
 
-gifimg
+![dashboard_preview_demo](_media/gif_images_three.gif)
 
 Sweet, right? So what's the purpose, you ask?
 
 Well, **you can use this trick to test backgrounds and bios to see how they look before you upload on Imgur and get them approved.**
-> ⚠️ The link still must be an imgur direct link to the background.
-> ⚠️ While you can preview unapproved backgrounds and bios, approval is <u>still required</u> to save changes.
+> - ⚠️ The link still must be an imgur direct link to the background.
+> - ⚠️ While you can preview unapproved backgrounds and bios, approval is <u>still required</u> to save changes.
